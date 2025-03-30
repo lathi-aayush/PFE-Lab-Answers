@@ -1,0 +1,1 @@
+# 16. Given a string. Delete from it all the characters whose indices are divisible by 3

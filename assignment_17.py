@@ -1,0 +1,1 @@
+# 17. Given a sequence of integer numbers ending with the number 0. Determine the length of the widest fragment where all the elements are equal to each other.
