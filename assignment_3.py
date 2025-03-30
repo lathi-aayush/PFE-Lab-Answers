@@ -1,4 +1,4 @@
-# 3. Program to Generate a Random Number  
+# 3. Program to Generate a Random Number
 
 import random
 

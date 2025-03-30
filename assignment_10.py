@@ -16,19 +16,19 @@ for i in range(0, 3):
 #     print("Length of diagonal = ", diag_ln)
 
 # This code condition valids only when correct coordinates of the rectangle is given ,so it cannot check whether the coordinates are of rectangle or not
-if xs[0]==xs[1]:
+if xs[0] == xs[1]:
     x = xs[2]
-elif xs[0]==xs[2]:
+elif xs[0] == xs[2]:
     x = xs[1]
-elif xs[1]==xs[2]:
-    x = xs[0]    
+elif xs[1] == xs[2]:
+    x = xs[0]
 
-if ys[0]==ys[1]:
+if ys[0] == ys[1]:
     y = ys[2]
-elif ys[0]==ys[2]:
+elif ys[0] == ys[2]:
     y = ys[1]
-elif ys[1]==ys[2]:
+elif ys[1] == ys[2]:
     y = ys[0]
-    
+
 
 print(f"The Unknown Coordinates are : (X, Y) = ({x}, {y})")

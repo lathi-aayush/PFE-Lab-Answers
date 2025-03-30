@@ -4,9 +4,9 @@ class1 = int(input("Enter the Number of students in class 1 : "))
 class2 = int(input("Enter the Number of students in class 2 : "))
 class3 = int(input("Enter the Number of students in class 3 : "))
 
-table1 = (class1//2) + (class1%2)   
-table2 = (class2//2) + (class2%2)   
-table3 = (class3//2) + (class3%2)   
+table1 = (class1 // 2) + (class1 % 2)
+table2 = (class2 // 2) + (class2 % 2)
+table3 = (class3 // 2) + (class3 % 2)
 
 print(f"Minimum desks in class 1 is {table1}")
 print(f"Minimum desks in class 2 is {table2}")
