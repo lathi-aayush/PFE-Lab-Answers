@@ -1,8 +1,8 @@
-# 17. Given a sequence of integer numbers ending with the number 0. Determine the length of the widestfragment where all the elements are equal to each other.
+# 17. Given a sequence of integer numbers ending with the number 0. Determine the length of the widest fragment where all the elements are equal to each other.
 
 # 5 5 5 3 3 3 3 7 7 0
 
-num_list = [5, 5, 5, 3, 3, 3, 3, 3, 7, 7,7, 7, 7, 7, 0]
+num_list = [5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 7, 7, 7, 7, 7, 7, 0]
 c = 1
 frag_len = []
 
